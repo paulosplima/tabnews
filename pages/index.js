@@ -1,7 +1,7 @@
 function HomePage() {
   return (
     <h3>
-      NOVA PÁGINA EM CONSTRUÇÃO !!! Em breve teremos muitas novidades para
+      NOVA  !!! Em breve teremos muitas novidades para
       você!Em breve teremos muitas novidades para você!
     </h3>
   );
